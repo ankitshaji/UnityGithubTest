@@ -1,0 +1,42 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &1
+MonoBehaviour:
+  m_ObjectHideFlags: 61
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -530159753, guid: 68c7e4565cde54155bb78d8e935f1ddb, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  cacheType: 3
+  lastUpdatedAtString: 2020-08-01T17:20:46.983+12:00
+  initializedAtString: 2020-08-01T17:19:11.503+12:00
+  log:
+  - commitID: aaa35ba189ccf8f9c7ec234ad343cfffdabaf61c
+    mergeA: 
+    mergeB: 
+    authorName: lachlanpye
+    authorEmail: 47025210+lachlanpye@users.noreply.github.com
+    commitEmail: noreply@github.com
+    commitName: GitHub
+    summary: Initial commit
+    description: 
+    timeString: 2020-08-01T17:08:31.000+12:00
+    commitTimeString: 2020-08-01T17:08:31.000+12:00
+    changes:
+    - path: .gitignore
+      fullPath: C:\Users\Lachlan Pye\Documents\GitHub\UnityGithubTest\.gitignore
+      projectPath: ..\.gitignore
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: README.md
+      fullPath: C:\Users\Lachlan Pye\Documents\GitHub\UnityGithubTest\README.md
+      projectPath: ..\README.md
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
